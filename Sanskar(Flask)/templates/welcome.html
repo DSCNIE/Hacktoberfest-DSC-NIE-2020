@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Welcome</title>
+</head>
+<body>
+  <h1>
+      Welcome to flask
+  </h1>
+  <p>
+      Cards
+      <ul>
+      {% for  card in cards %}
+      <li>
+          <a href="{{url_for('card_view',index=loop.index0)}}">
+              {{card.question}}
+          </a>
+      </li>
+      {% endfor %}
+      </ul>
+  </p>
+</body>
+</html>
