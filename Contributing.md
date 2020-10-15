@@ -2,7 +2,6 @@
     <img src="https://rawcdn.githack.com/junaidrahim/Hacktoberfest-KIIT/ae29016f23b3cb4ffd209dd8f309f269448f35f2/images/hacktoberfest.png">
 </p>
 
-
 # A Guide to making your first Pull Request
 
 ### Requirements
@@ -32,7 +31,7 @@ Done with the video ? Cool, follow the following steps.
 ### Clone the repository
 ```bash
 git clone <enter_your_copied_url>
-cd Hacktoberfest-KIIT-2020
+cd Hacktoberfest-DSC-NIE-2020
 ```
 
 To know more about cloning and forking a repository check [this](https://help.github.com/en/articles/fork-a-repo) out!
@@ -42,6 +41,13 @@ To know more about cloning and forking a repository check [this](https://help.gi
 mkdir <your_name>
 cd <your_name>
 ```
+
+##### if you are participating for flask compeitition make your folder like below
+```bash
+mkdir <your_name> (Flask)
+cd <your_name> (FLask)
+```
+
 ### Put the programs in your directory
 > Note: Put your programs inside the directory of your name only. Try and keep one pull request per program you add. You can have a look
 > at the example programs already added
@@ -50,11 +56,11 @@ cd <your_name>
 
 ## Commit and Push your changes
 
-* ***Inside the Hactoberfest-KIIT directory***
+* ***Inside the Hactoberfest-DSC-NIE directory***
 
 ```bash
 # Do this once, only for the first time
-git remote add upstream https://github.com/junaidrahim/Hacktoberfest-KIIT.git
+git remote add upstream https://github.com/DSCNIE/Hacktoberfest-DSC-NIE-2020.git
 ``` 
 
 Commit your changes
