@@ -32,7 +32,7 @@ Done with the video ? Cool, follow the following steps.
 ### Clone the repository
 ```bash
 git clone <enter_your_copied_url>
-cd Hacktoberfest-KIIT-2020
+cd Hacktoberfest-DSC-NIE-2020
 ```
 
 To know more about cloning and forking a repository check [this](https://help.github.com/en/articles/fork-a-repo) out!
@@ -50,11 +50,11 @@ cd <your_name>
 
 ## Commit and Push your changes
 
-* ***Inside the Hactoberfest-KIIT directory***
+* ***Inside the Hacktoberfest-DSC-NIE-2020***
 
 ```bash
 # Do this once, only for the first time
-git remote add upstream https://github.com/junaidrahim/Hacktoberfest-KIIT.git
+git remote add upstream https://github.com/DSCNIE/Hacktoberfest-DSC-NIE-2020.git
 ``` 
 
 Commit your changes
