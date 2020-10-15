@@ -1,4 +1,4 @@
-# Hacktoberfest 2020 - KIIT
+# Hacktoberfest-DSC-NIE-2020
 
 ## Hello NIE <img src="https://raw.githubusercontent.com/arnoob16/arnoob16/master/wave.gif" width="30px">
 
