@@ -21,7 +21,7 @@ You can contribute any piece of code in any language you're comfortable in to th
 simple hello world to some programs from the programming assignments we get in college. You can go as wild as possible.
 
 
-Read the [Contributing.md](CONTRIBUTING.md) for more details on how to get started and get your pull request in.
+Read the [Contributing.md](Contributing.md) for more details on how to get started and get your pull request in.
 
 
 ## What is Open Source Software ?
